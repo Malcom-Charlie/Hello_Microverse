@@ -98,7 +98,7 @@
 
 > Add a link to your deployed project.
 
-- [Hello Microverse](https://yourdeployedapplicationlink.com)
+- [Hello Microverse](https://github.com/Malcom-Charlie/Hello_Microverse.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ After Installing Google Chrome set it as default browser.
 
 ### Usage
 
-To run the project, click [Hello Microverse](https://yourdeployedapplicationlink.com)
+To run the project, click [Hello Microverse](https://github.com/Malcom-Charlie/Hello_Microverse.git)
 
 
 
